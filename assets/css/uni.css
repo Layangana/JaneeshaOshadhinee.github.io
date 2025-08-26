@@ -1,0 +1,67 @@
+
+
+/* ===================================== Import Less ================================== */
+@import url(https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:300,400,400italic,700,700italic);
+/* ===================================== Basic CSS ==================================== */
+
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7a8a8; /* Light pink background */
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Container */
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+/* Title */
+.project-title {
+  font-size: 2.2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Description */
+.project-description {
+  font-size: 20px;
+  margin-bottom: 25px;
+  text-align: justify;
+}
+
+/* Tech section */
+.tech-title {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.tech-list {
+  list-style: none;
+  text-align: left;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.tech-list li {
+  font-size: 1.1rem;
+  margin-bottom: 5px;
+}
+
+/* Image Gallery */
+
+
