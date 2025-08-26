@@ -16,7 +16,7 @@ Description: This Template is created for Youtubers
   list-style: none; }
 
 img {
-  max-width: 100%; }
+  max-width: 90%; }
 
 a {
   text-decoration: none;
@@ -81,7 +81,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", sans-serif;
-  color: #545454; }
+  color: #000000; }
 
 strong {
   font-family: "Open Sans", sans-serif; }
@@ -159,7 +159,7 @@ body {
   .page-nav h2 {
     font-size: 36px;
     width: 100%;
-    color: #444; }
+    color: #050505; }
     @media screen and (max-width: 600px) {
       .page-nav h2 {
         font-size: 26px; } }
@@ -191,9 +191,9 @@ body {
 
 .btn-primary {
   background-color: #02212c;
-  border-color: #e306a1; }
+  border-color: #080808; }
   .btn-primary:hover {
-    background-color: #f30b7f !important;
+    background-color: #058fc5 !important;
     border-color: #4e023c !important; }
   .btn-primary:active {
     background-color: #fe9c2c !important;
@@ -304,14 +304,14 @@ html {
           padding-right: 10px; } }
       .home-screen .header ul li {
         float: left;
-        padding: 25px 16px;
-        font-weight: 600; }
+        padding: 25px  18px;
+        font-weight: 700; }
         .home-screen .header ul li a {
           color: #FFF; }
         @media screen and (max-width: 957px) {
           .home-screen .header ul li {
             padding: 25px 10px;
-            font-size: .85rem; } }
+            font-size: .95rem; } }
       @media screen and (max-width: 767px) {
         .home-screen .header ul {
           background-color: #f8c0c0;
@@ -388,7 +388,7 @@ html {
 /* =================== About me Starts Here =================== */
 .about-us {
   padding: 50px;
-  background-color: #f78bc6; }
+  background-color: #80c9d9; }
   @media screen and (max-width: 940px) {
     .about-us {
       padding: 30px 10px; } }
@@ -409,15 +409,15 @@ html {
     .about-us .about-row .detail-col {
       margin-top: 30px; } }
   .about-us .about-row .detail-col h2 {
-    font-weight: 700;
-    font-size: 2rem; }
+    font-weight: 600;
+    font-size: 30px; }
   .about-us .about-row .detail-col h6 {
     font-weight: 600;
     font-size: 1.2rem;
     margin-top: 15px;
     margin-bottom: 20px; }
   .about-us .about-row .detail-col p {
-    font-size: .94rem;
+    font-size: 40px;
     line-height: 30px;
     color: #0c0c0c; }
   .about-us .about-row .detail-col .info-list {
@@ -428,7 +428,7 @@ html {
       font-size: .95rem; }
       .about-us .about-row .detail-col .info-list ul li span {
         float: left;
-        font-weight: 600;
+        font-weight:bold;
         color: #000000; }
 
 /* =================== Skills Starts Here =================== */
@@ -450,12 +450,12 @@ html {
     margin-top: 25px; }
     .skills .skii-div ul li {
       font-weight: 600;
-      font-size: .9rem;
+      font-size: 20px;
       margin-bottom: 30px; }
       .skills .skii-div ul li label {
         margin-bottom: 15px; }
       .skills .skii-div ul li .bg-warning {
-        background-color: #710447 !important; }
+        background-color: #09035f !important; }
 .skills .tech-skill {
   background-color: #fff; }
 .skills .pro-skill {
@@ -473,7 +473,7 @@ html {
 .gallery {
   padding: 50px;
   padding: 30px;
-  background-color: #f9bdbd; }
+  background-color: #80c9d9; }
   @media screen and (max-width: 940px) {
     .gallery {
       padding: 30px 10px; } }
@@ -491,24 +491,24 @@ html {
   width: 7.5%;
   left: 46.5%;
   height: 45px;
-  border-bottom: 1px solid #fe9c2c; }
+  border-bottom: 1px solid #07011f; }
 
 .filter-button {
   font-size: 15px;
-  border: 1px solid #fe9c2c;
+  border: 1px solid #211201;
   border-radius: 2px;
   text-align: center;
   color: #FFF;
   margin-bottom: 30px;
   padding: 5px 20px;
   margin-right: 5px;
-  background-color: #fe9c2c !important; }
+  background-color: #2134df !important; }
 
 .filter-button:hover {
   font-size: 18px;
-  border: 1px solid #fe9c2c;
+  border: 1px solid #032c3a;
   text-align: center;
-  color: #fe9c2c;
+  color: #180e03;
   background-color: #FFF !important;
   padding: 5px 20px; }
 
@@ -612,7 +612,7 @@ html {
   border-color: #e4e4e4 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #e4e4e4; }
 
 #generic_price_table .generic_content .generic_head_price .generic_head_content .head span {
-  color: #525252; }
+  color: #020202; }
 
 #generic_price_table .generic_content .generic_head_price .generic_price_tag .price .sign {
   color: #414141; }
